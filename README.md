@@ -1,6 +1,7 @@
 # interaction-guidelines
 
-View the demo here: https://mz4rf1.axshare.com/
+View the prototype here: https://mz4rf1.axshare.com/  
+You can also watch a [short demo video](https://github.com/monaroehm/interaction-guidelines/blob/main/recima-demo-video.mp4).
 
 A small mobile app prototype, designed to respect selected interaction guidelines:
 
